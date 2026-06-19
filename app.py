@@ -98,27 +98,25 @@ if st.button("Submit"):
             st.error(
                 f"Gemini API Error: {str(e)}"    )
             st.stop()
-            if escalate:
-
-                st.error(
+        if escalate:
+            st.error(
                     "Escalation Required"
                 )
 
-                summary = create_handoff_summary(
+            summary = create_handoff_summary(
                     persona,
                     query,
                     docs
                 )
 
-                st.subheader(
+            st.subheader(
                     "Human Handoff Summary"
                 )
 
-                st.json(summary)
+            st.json(summary)
+        else:
 
-            else:
-
-                st.success(
+            st.success(
                     "No Escalation Needed"
                 )
             st.markdown("---")

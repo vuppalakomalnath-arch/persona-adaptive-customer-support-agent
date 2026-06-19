@@ -119,17 +119,11 @@ Gemini Response Generation
      ▼
 Escalation Logic
      │
-     ├── No
+     ├── No → Response
      │
-     ▼
-Generated Response
-     └── Yes
-             │
-             ▼
-Human Handoff Summary
+     └── Yes → Human Handoff Summary
 ```
 
----
 
 # Tech Stack
 
