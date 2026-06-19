@@ -1,0 +1,9 @@
+Service Outage Response
+
+During outages:
+
+- Engineering investigates immediately.
+- Status updates are posted every 30 minutes.
+- Customers are notified through email.
+
+Critical incidents receive highest priority.

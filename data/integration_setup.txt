@@ -1,0 +1,13 @@
+Integration Setup Guide
+
+Supported integrations:
+
+- Slack
+- Microsoft Teams
+- Zapier
+
+Setup Process:
+
+1. Generate integration token.
+2. Connect application.
+3. Verify synchronization.

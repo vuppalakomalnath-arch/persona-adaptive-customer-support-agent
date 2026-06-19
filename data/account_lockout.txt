@@ -1,0 +1,7 @@
+Account Lockout Policy
+
+Accounts are locked after 5 failed login attempts.
+
+Users must wait 15 minutes or reset their password.
+
+Administrators may unlock accounts manually.

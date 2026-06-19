@@ -1,0 +1,11 @@
+Subscription Upgrade Guide
+
+Users may upgrade plans at any time.
+
+Benefits include:
+
+- Increased API limits
+- Additional users
+- Premium support
+
+Changes take effect immediately.

@@ -1,0 +1,17 @@
+API Authentication Troubleshooting
+
+Authentication failures typically occur due to:
+
+- Invalid API key
+- Expired token
+- Incorrect authorization header
+
+Resolution:
+
+1. Verify API key.
+2. Regenerate token.
+3. Confirm Bearer format.
+
+Example:
+
+Authorization: Bearer YOUR_TOKEN

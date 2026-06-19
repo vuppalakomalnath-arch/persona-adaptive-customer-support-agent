@@ -1,0 +1,7 @@
+Security Policy
+
+All customer data is encrypted.
+
+Multi-factor authentication is recommended.
+
+Security incidents should be reported immediately.

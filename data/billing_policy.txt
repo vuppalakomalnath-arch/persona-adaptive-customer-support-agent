@@ -1,0 +1,9 @@
+Billing Policy
+
+Subscriptions are billed monthly.
+
+Invoices are generated automatically.
+
+Failed payments may result in temporary account restrictions.
+
+Customers can update payment methods in Billing Settings.
